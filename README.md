@@ -1,31 +1,38 @@
+
 <h1 align="center">Hi 👋, I'm SEWMINI DE SILVA</h1>
-<h3 align="center">oftware Engineering undergraduate with a passion for UI/UX design. Currently learning and exploring new technologies to enhance user experiences.</h3>
+<h3 align="center">Software Engineering undergraduate with a passion for UI/UX design. Currently learning and exploring new technologies to enhance user experiences.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sewmimidesilva" alt="sewmimidesilva" /></a> </p>
 
-- 🔭 I’m currently working on **xxx**
+- 🔭 Interests:
+  - UI/UX Design
+  - Frontend Development
 
-- 🌱 I’m currently learning **Figma ,React.js,Flutter**
+- 🌱 Currently Learning:
+  - React.js
+  - Figma
 
-- 👯 I’m looking to collaborate on **xxx**
+- 👯 Looking to Collaborate On:
+  - Projects related to UI/UX design
+  - Frontend Development
 
-- 🤝 I’m looking for help with **xxx**
+- 📝 Articles:
+  - I write articles on [Medium](https://medium.com/@sewminidesilva4)
 
-- 👨‍💻 All of my projects are available at [xxx](xxx)
+- 📫 How to Reach Me:
+  - Email: sewmini@example.com
+  - GitHub: [sewmimiDeSilva](https://github.com/sewmimiDeSilva)
 
-- 📝 I regularly write articles on [xxx](xxx)
+- ⚡ Fun Fact:
+  - If life punches me, I'll punch back twice as hard.
 
-- 📫 How to reach me **sewminidesilva4@gmail.com**
-
-- 📄 Know about my experiences [xxx](xxx)
-
-- ⚡ Fun fact **If life punches me, I'll punch back twice as hard.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sewmini de silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sewmini de silva" height="30" width="40" /></a>
 <a href="https://fb.com/imesha de silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imesha de silva" height="30" width="40" /></a>
-<a href="https://medium.com/@sewminidesilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sewminidesilva" height="30" width="40" /></a>
+<a href="https://medium.com/@sewminidesilva" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="@sewminidesilva" height="30" width="30" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
