@@ -20,7 +20,7 @@
   - I write articles on [Medium](https://medium.com/@sewminidesilva4)
 
 - 📫 How to Reach Me:
-  - Email: sewmini@example.com
+  - Email: sewminidesilva4@.com
   - GitHub: [sewmimiDeSilva](https://github.com/sewmimiDeSilva)
 
 - ⚡ Fun Fact:
