@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/sTpDjnB.gif" alt="Coding Animation" width="100" height="100">
 </p>
 
-<h3 align="center">Software Engineering undergraduate with a passion for UI/UX design. Currently learning and exploring new technologies to enhance user experiences.</h3>
+<h3 align="center">Software Engineering undergraduate who currently learning and exploring new technologies to enhance user experiences.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sewminidesilva" alt="sewminidesilva" /></a> </p>
 
