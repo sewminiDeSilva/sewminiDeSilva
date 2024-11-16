@@ -7,27 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sewminidesilva" alt="sewminidesilva" /></a> </p>
 
-- 🔭 Interests:
-  - UI/UX Design
-  - Frontend Development
-
-- 🌱 Currently Learning:
-  - React.js
-  - Figma
-
-- 👯 Looking to Collaborate On:
-  - Projects related to UI/UX design
-  - Frontend Development
-
-- 📝 Articles:
-  - I write articles on [Medium](https://medium.com/@sewminidesilva4)
-
-- 📫 How to Reach Me:
-  - Email: sewminidesilva4@.com
-  - GitHub: [sewminiDeSilva](https://github.com/sewmimiDeSilva)
-
-- ⚡ Fun Fact:
-  - If life punches me, I'll punch back twice as hard.
 
 
 <h3 align="left">Connect with me:</h3>
